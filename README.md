@@ -1,3 +1,3 @@
 # Bamazon
 
-![GitHub Logo](/readmeScreens/1.png)
+![First Screen](/readmeScreens/1.png)

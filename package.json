@@ -1,0 +1,24 @@
+{
+  "name": "fakeamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedForge/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreedForge/Bamazon/issues"
+  },
+  "homepage": "https://github.com/GreedForge/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  }
+}

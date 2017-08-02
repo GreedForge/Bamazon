@@ -1,4 +1,5 @@
 # Bamazon
+Very first, create the database with the included sql file.
 
 First make sure you have done an npm install then run the bamazonCustomer.js using node.
 ![First Screen](./readme_screens/1.png)

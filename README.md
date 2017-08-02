@@ -1,4 +1,3 @@
 # Bamazon
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/readmeScreens/1.png)

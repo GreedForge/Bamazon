@@ -1,3 +1,3 @@
 # Bamazon
 
-![First Screen](./readmeScreens/1.png)
+![First Screen](./readme_screens/1.png)
